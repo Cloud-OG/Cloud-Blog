@@ -374,7 +374,85 @@ const BLOG = {
       artist: '知更鸟,HOYO-MiX,Chevy',
       url: 'http://music.163.com/song/media/outer/url?id=2155423468.mp3',
       cover: 'http://p1.music.126.net/aR4BlDNkA84tFbg8bBpriA==/109951169585655912.jpg'
+    }，
+    {
+      name: '红透晚烟青',
+      artist: '金玟岐,三Z-STUDIO,HOYO-MiX',
+      url: 'http://music.163.com/song/media/outer/url?id=2618046004.mp3',
+      cover: 'https://p1.music.126.net/xZwzMCIG6Tb0RvIf64q2Lg==/109951169878501910.jpg'
+    },
+    {
+      name: 'Weight of the World/壊レタ世界ノ歌',
+      artist: '河野マリナ',
+      url: 'http://music.163.com/song/media/outer/url?id=468490592.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: 'Weight of the World/the End of YoRHa',
+      artist: 'YoRHa',
+      url: 'http://music.163.com/song/media/outer/url?id=468490608.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: 'Wake Up, Get Up, Get Out There',
+      artist: 'Lyn',
+      url: 'http://music.163.com/song/media/outer/url?id=454224827.mp3',
+      cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
+    },
+    {
+      name: 'Life Will Change',
+      artist: 'Lyn',
+      url: 'http://music.163.com/song/media/outer/url?id=454231736.mp3',
+      cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
+    },
+    {
+      name: 'Life Will Change',
+      artist: 'Lyn',
+      url: 'http://music.163.com/song/media/outer/url?id=454231736.mp3',
+      cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
+    },
+    {
+      name: 'Last Surprise',
+      artist: 'Lyn',
+      url: 'http://music.163.com/song/media/outer/url?id=454224836.mp3',
+      cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
+    },
+    {
+      name: 'Beneath the Mask',
+      artist: 'Lyn',
+      url: 'http://music.163.com/song/media/outer/url?id=454224842.mp3',
+      cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
+    },
+    {
+      name: 'Rivers In the Desert',
+      artist: 'Lyn',
+      url: 'http://music.163.com/song/media/outer/url?id=454231899.mp3',
+      cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
+    },
+    {
+      name: '星と僕らと',
+      artist: 'Lyn',
+      url: 'http://music.163.com/song/media/outer/url?id=454224997.mp3',
+      cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
+    },
+    {
+      name: 'To the Moon - Main Theme',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=1645064.mp3',
+      cover: 'https://p2.music.126.net/0AYWra9rCzgeprGp6OUyUw==/868614185993997.jpg'
+    },
+    {
+      name: 'Everything\'s Alright',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=1645135.mp3',
+      cover: 'https://p2.music.126.net/0AYWra9rCzgeprGp6OUyUw==/868614185993997.jpg'
     }
+    // {
+    //   name: '',
+    //   artist: '',
+    //   url: '',
+    //   cover: ''
+    // }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
