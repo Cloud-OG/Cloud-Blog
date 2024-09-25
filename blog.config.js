@@ -436,15 +436,9 @@ const BLOG = {
       cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
     },
     {
-      name: 'To the Moon - Main Theme',
-      artist: 'Kan R. Gao',
-      url: 'http://music.163.com/song/media/outer/url?id=1645064.mp3',
-      cover: 'https://p2.music.126.net/0AYWra9rCzgeprGp6OUyUw==/868614185993997.jpg'
-    },
-    {
-      name: 'Everything\'s Alright',
-      artist: 'Kan R. Gao',
-      url: 'http://music.163.com/song/media/outer/url?id=1645135.mp3',
+      name: 'Everything\'s Alright (Bonus Version)',
+      artist: 'Kan R. Gao / Laura Shigihara',
+      url: 'http://music.163.com/song/media/outer/url?id=454966468.mp3',
       cover: 'https://p2.music.126.net/0AYWra9rCzgeprGp6OUyUw==/868614185993997.jpg'
     }
   ],
