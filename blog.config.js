@@ -309,73 +309,85 @@ const BLOG = {
   MUSIC_PLAYER_ORDER: process.env.NEXT_PUBLIC_MUSIC_PLAYER_ORDER || 'list', // 默认播放方式，顺序 list，随机 random
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
-    {//1
+    {
       name: 'Kanon D-Dur (Quintet, No Harpsichord)',
       artist: '鹭巣诗郎',
       url: 'https://ws.stream.qqmusic.qq.com/C4000042dWUG18v9os.m4a?guid=245456903&vkey=E65E28C1C551D457021AFAB4CD1EDD6D96B43E8D6C703FA4966EB479D90223A05C55FFA864D3B0DFAAE9F068B444374464F0BA18AC0C4952&uin=&fromtag=120032&src=C400001fpVLO0uAuMt.m4a',
       cover: 'https://y.qq.com/music/photo_new/T002R300x300M000003c3heL3Nadri_1.jpg'
     },
-    {//2
+    {
       name: '鳥の詩',
       artist: 'Lia',
       url: 'https://music.163.com/song/media/outer/url?id=28151022.mp3',
       cover: 'http://p2.music.126.net/CI_u3SfBgdTIAQtFnn_wnQ==/6040716883009850.jpg'
     },
-    {//3
+    {
+      name: '崩坏世界的歌姬 (Movie Ver.)',
+      artist: '小林未郁',
+      url: 'https://music.163.com/song/media/outer/url?id=1459722976.mp3',
+      cover: 'https://p2.music.126.net/2Rcimduy6Oj5Xz6beJDSIg==/3364505581118558.jpg'
+    },
+    {
+      name: '崩坏世界的歌姬（Chinese Ver.）',
+      artist: '泠鸢yousa',
+      url: 'https://music.163.com/song/media/outer/url?id=33682747.mp3',
+      cover: 'https://p1.music.126.net/XftX_EwaEBhjPgddMv7Lbw==/109951165105147714.jpg'
+    },
+    {
       name: 'Da Capo',
       artist: 'HOYO-MiX',
       url: 'https://music.163.com/song/media/outer/url?id=2026565329.mp3',
       cover: 'http://p1.music.126.net/awzv1LpuBJiKTeB7roh_Aw==/109951168434956885.jpg'
     },
-    {//4
+    {
       name: '星间旅行 Interstellar Journey (中文版)',
       artist: 'HOYO-MiX,茶理理',
       url: 'https://music.163.com/song/media/outer/url?id=2043169389.mp3',
       cover: 'http://p2.music.126.net/JaSa3Gt5oaJ77cDfJBR1fg==/109951168575641463.jpg'
     },
-    {//5
+    {
       name: '轻涟 La vaguelette',
       artist: 'HOYO-MiX',
       url: 'https://music.163.com/song/media/outer/url?id=2100334024.mp3',
       cover: 'http://p2.music.126.net/I-cw5yaq4Pz0EL2dZAmq1g==/109951169058808374.jpg'
     },
-    {//6
+    {
       name: 'Moon Halo',
       artist: '茶理理,TetraCalyx,Hanser,HOYO-MiX',
       url: 'https://music.163.com/song/media/outer/url?id=1859652717.mp3',
       cover: 'http://p2.music.126.net/ciLKATqflV2YWSV3ltE2Kw==/109951166159281275.jpg'
     },
-    {//7
+    {
       name: '蒲苇如丝 Lovers\' Oath',
       artist: '陈致逸,HOYO-MiX',
       url: 'https://music.163.com/song/media/outer/url?id=1861577585.mp3',
       cover: 'http://p2.music.126.net/klj1ylCHIDtuINQEXo1WEg==/109951166180599033.jpg'
     },
-    {//8
+    {
       name: 'Regression',
       artist: '阿云嘎,HOYO-MiX',
       url: 'https://music.163.com/song/media/outer/url?id=1913478990.mp3',
       cover: 'http://p1.music.126.net/DbD08enxZN2kDFScDFxcdQ==/109951166957048928.jpg'
     },
-    {//9
+    {
       name: '在银河中孤独摇摆',
       artist: '知更鸟,HOYO-MiX,Chevy',
       url: 'http://music.163.com/song/media/outer/url?id=2155423467.mp3',
       cover: 'http://p1.music.126.net/aR4BlDNkA84tFbg8bBpriA==/109951169585655912.jpg'
     },
-    {//10
+    {
       name: '使一颗心免于哀伤',
       artist: '知更鸟,HOYO-MiX,Chevy',
       url: 'http://music.163.com/song/media/outer/url?id=2155422573.mp3',
       cover: 'http://p1.music.126.net/aR4BlDNkA84tFbg8bBpriA==/109951169585655912.jpg'
     },
-    {//11
+    {
       name: '希望有羽毛和翅膀',
       artist: '知更鸟,HOYO-MiX,Chevy',
       url: 'http://music.163.com/song/media/outer/url?id=2155423468.mp3',
       cover: 'http://p1.music.126.net/aR4BlDNkA84tFbg8bBpriA==/109951169585655912.jpg'
     },
-    {//12
+    {
       name: '红透晚烟青',
       artist: '金玟岐,三Z-STUDIO,HOYO-MiX',
       url: 'http://music.163.com/song/media/outer/url?id=2618046004.mp3',
