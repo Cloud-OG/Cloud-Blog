@@ -374,8 +374,8 @@ const BLOG = {
       artist: '知更鸟,HOYO-MiX,Chevy',
       url: 'http://music.163.com/song/media/outer/url?id=2155423468.mp3',
       cover: 'http://p1.music.126.net/aR4BlDNkA84tFbg8bBpriA==/109951169585655912.jpg'
-    }，
-    {
+    },
+    {//12
       name: '红透晚烟青',
       artist: '金玟岐,三Z-STUDIO,HOYO-MiX',
       url: 'http://music.163.com/song/media/outer/url?id=2618046004.mp3',
