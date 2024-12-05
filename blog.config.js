@@ -509,6 +509,12 @@ const BLOG = {
       cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
     },
     {
+      name: 'カイネ／救済',
+      artist: 'MONACA / 岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=4937739.mp3',
+      cover: 'https://p1.music.126.net/tet1byB8_pPwwoedxzFKhg==/2356253418376742.jpg'
+    },
+    {
       name: 'Weight of the World/壊レタ世界ノ歌',
       artist: '河野マリナ',
       url: 'http://music.163.com/song/media/outer/url?id=468490592.mp3',
