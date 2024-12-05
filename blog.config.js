@@ -455,11 +455,113 @@ const BLOG = {
       cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
     },
     {
+      name: 'Trailer Theme - Just a To the Moon Series Beach Episode',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633699898.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'Title Theme - Just a To the Moon Series Beach Episode',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633698053.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'The Day Off (Bus Map Music)',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633698058.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'For River - Lobby Piano Version',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633698054.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'Born a Stranger - Lobby Piano Version',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633698059.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'Time is a Place - Lobby Piano Version',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633699892.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'Faye\'s Theme - Lobby Piano Version',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633699899.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'Lullaby from a Star - Lobby Piano Version',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633699893.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'To Realize (Quintessence) - Lobby Piano Version',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633699900.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'Envy (Quintessence) - Lobby Piano Version',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633699894.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'Kaire\'s Theme (Quintessence) - Lobby Piano Version',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633698060.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'To the Moon Lofi Medley',
+      artist: 'Kan R. Gao / Sunmin Kim',
+      url: 'http://music.163.com/song/media/outer/url?id=2633698063.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'Finding Paradise Lofi Medley',
+      artist: 'Ferdk / Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633699896.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'Impostor Factory Lofi Medley',
+      artist: 'Ferdk / Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633699901.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'Neil and Eva Lofi Medley',
+      artist: 'Ferdk / Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633698057.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'World in a Memory',
+      artist: 'Kan R. Gao / Pealeaf',
+      url: 'http://music.163.com/song/media/outer/url?id=2633698064.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
+      name: 'I Still Remember Everything',
+      artist: 'Kan R. Gao',
+      url: 'http://music.163.com/song/media/outer/url?id=2633699897.mp3',
+      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+    },
+    {
       name: 'Everything\'s Alright (Bonus Version)',
       artist: 'Kan R. Gao / Laura Shigihara',
       url: 'http://music.163.com/song/media/outer/url?id=454966468.mp3',
       cover: 'https://p2.music.126.net/0AYWra9rCzgeprGp6OUyUw==/868614185993997.jpg'
-    }
+    },
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
