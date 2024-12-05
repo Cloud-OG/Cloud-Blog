@@ -373,19 +373,25 @@ const BLOG = {
     {
       name: '在银河中孤独摇摆',
       artist: '知更鸟,HOYO-MiX,Chevy',
-      url: 'http://music.163.com/song/media/outer/url?id=2155423467.mp3',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/01 在银河中孤独摇摆 Sway To My Beat In Cosmos.m4a',
       cover: 'http://p1.music.126.net/aR4BlDNkA84tFbg8bBpriA==/109951169585655912.jpg'
     },
     {
       name: '使一颗心免于哀伤',
       artist: '知更鸟,HOYO-MiX,Chevy',
-      url: 'http://music.163.com/song/media/outer/url?id=2155422573.mp3',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/02 使一颗心免于哀伤 If I Can Stop One Heart From Breaking.m4a',
       cover: 'http://p1.music.126.net/aR4BlDNkA84tFbg8bBpriA==/109951169585655912.jpg'
     },
     {
       name: '希望有羽毛和翅膀',
       artist: '知更鸟,HOYO-MiX,Chevy',
-      url: 'http://music.163.com/song/media/outer/url?id=2155423468.mp3',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/03 希望有羽毛和翅膀 Hope Is The Thing With Feathers.m4a',
+      cover: 'http://p1.music.126.net/aR4BlDNkA84tFbg8bBpriA==/109951169585655912.jpg'
+    },
+    {
+      name: '若我不曾见过太阳',
+      artist: '知更鸟,HOYO-MiX,Chevy',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/04 若我不曾见过太阳 Had I Not Seen The Sun.m4a',
       cover: 'http://p1.music.126.net/aR4BlDNkA84tFbg8bBpriA==/109951169585655912.jpg'
     },
     {
