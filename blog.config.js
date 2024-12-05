@@ -401,9 +401,123 @@ const BLOG = {
       cover: 'https://p1.music.126.net/xZwzMCIG6Tb0RvIf64q2Lg==/109951169878501910.jpg'
     },
     {
+      name: '穏ヤカナ眠リ',
+      artist: '岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=468490565.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '砂塵ノ記憶',
+      artist: '高橋邦幸',
+      url: 'http://music.163.com/song/media/outer/url?id=468490566.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '遊園施設',
+      artist: '帆足圭吾',
+      url: 'http://music.163.com/song/media/outer/url?id=468490569.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '還ラナイ声/ギター',
+      artist: '岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=468490571.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '澱ンダ祈リ/暁風',
+      artist: '帆足圭吾 / 岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=468490573.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: 'エミール/ショップ',
+      artist: '高橋邦幸 / 石濱翔 / 門脇舞以',
+      url: 'http://music.163.com/song/media/outer/url?id=468490574.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '大切ナ時間',
+      artist: '帆足圭吾 / 石井咲希',
+      url: 'http://music.163.com/song/media/outer/url?id=468490575.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '曖昧ナ希望/氷雨',
+      artist: '帆足圭吾',
+      url: 'http://music.163.com/song/media/outer/url?id=468490576.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '遺サレタ場所/遮光',
+      artist: '岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=468490579.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: 'パスカル',
+      artist: '岡部啓一 / 石井咲希',
+      url: 'http://music.163.com/song/media/outer/url?id=468490582.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '森ノ王国',
+      artist: '帆足圭吾',
+      url: 'http://music.163.com/song/media/outer/url?id=468490583.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '愚カシイ兵器:乙:甲',
+      artist: '岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=468490586.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '愚カシイ兵器:丙',
+      artist: '岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=468490589.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '曖昧ナ希望/翠雨',
+      artist: '帆足圭吾',
+      url: 'http://music.163.com/song/media/outer/url?id=468490598.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: 'イニシエノウタ/贖罪',
+      artist: '岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=468490599.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '澱ンダ祈リ/星空',
+      artist: '帆足圭吾 / 岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=468490602.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '顕現シタ異物',
+      artist: '岡部啓一 / 帆足圭吾',
+      url: 'http://music.163.com/song/media/outer/url?id=468490603.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: '「塔」',
+      artist: '岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=468490604.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
       name: 'Weight of the World/壊レタ世界ノ歌',
       artist: '河野マリナ',
       url: 'http://music.163.com/song/media/outer/url?id=468490592.mp3',
+      cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
+    },
+    {
+      name: 'Weight of the World (Nouveau-FR Version)',
+      artist: 'Emi Evans / 岡部啓一',
+      url: 'http://music.163.com/song/media/outer/url?id=468490607.mp3',
       cover: 'https://p2.music.126.net/2mq_C15bHzYnbPX4fZHomw==/109951165543440452.jpg'
     },
     {
@@ -416,12 +530,6 @@ const BLOG = {
       name: 'Wake Up, Get Up, Get Out There',
       artist: 'Lyn',
       url: 'http://music.163.com/song/media/outer/url?id=454224827.mp3',
-      cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
-    },
-    {
-      name: 'Life Will Change',
-      artist: 'Lyn',
-      url: 'http://music.163.com/song/media/outer/url?id=454231736.mp3',
       cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
     },
     {
