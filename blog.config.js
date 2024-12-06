@@ -401,12 +401,6 @@ const BLOG = {
       cover: 'https://p1.music.126.net/xZwzMCIG6Tb0RvIf64q2Lg==/109951169878501910.jpg'
     },
     {
-      name: '小停再出发',
-      artist: '三Z-STUDIO,HOYO-MiX',
-      url: 'http://music.163.com/song/media/outer/url?id=2644569024.mp3',
-      cover: 'https://p2.music.126.net/lCNxRyqAuVvIPkuhUXkcdg==/109951170130858980.jpg'
-    },
-    {
       name: '穏ヤカナ眠リ',
       artist: '岡部啓一',
       url: 'http://music.163.com/song/media/outer/url?id=468490565.mp3',
