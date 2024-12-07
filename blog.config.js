@@ -311,10 +311,10 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: 'Kanon D-Dur (Quintet, No Harpsichord)',
-      artist: '鹭巣诗郎',
-      url: 'https://ws.stream.qqmusic.qq.com/C4000042dWUG18v9os.m4a?guid=245456903&vkey=E65E28C1C551D457021AFAB4CD1EDD6D96B43E8D6C703FA4966EB479D90223A05C55FFA864D3B0DFAAE9F068B444374464F0BA18AC0C4952&uin=&fromtag=120032&src=C400001fpVLO0uAuMt.m4a',
-      cover: 'https://y.qq.com/music/photo_new/T002R300x300M000003c3heL3Nadri_1.jpg'
+      name: 'come on sweet death',
+      artist: 'ARIANNE',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/come on,sweet death.mp3',
+      cover: 'https://p1.music.126.net/S4Kcgr9CmA_1yM6wbjL3Rg==/109951165354140879.jpg'
     },
     {
       name: '鳥の詩',
