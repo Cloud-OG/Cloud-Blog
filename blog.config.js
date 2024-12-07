@@ -311,7 +311,7 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: 'come on sweet death',
+      name: 'Come on,sweet death',
       artist: 'ARIANNE',
       url: 'https://Cloud-OG.github.io/FileHub/root/Music/come on,sweet death.mp3',
       cover: 'https://p1.music.126.net/S4Kcgr9CmA_1yM6wbjL3Rg==/109951165354140879.jpg'
