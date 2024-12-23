@@ -323,6 +323,12 @@ const BLOG = {
       cover: 'http://p2.music.126.net/CI_u3SfBgdTIAQtFnn_wnQ==/6040716883009850.jpg'
     },
     {
+      name: 'Memoria-君の赴くままに',
+      artist: '藤崎わと',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/Memoria-君の赴くままに.m4a',
+      cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMiehT3mFTCvo7gRCx6_e9e5DSAm8Q19M7w&s'
+    },
+    {
       name: '崩坏世界的歌姬 (Movie Ver.)',
       artist: '小林未郁',
       url: 'https://music.163.com/song/media/outer/url?id=1459722976.mp3',
