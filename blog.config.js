@@ -311,12 +311,6 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: 'Come on,sweet death',
-      artist: 'ARIANNE',
-      url: 'https://Cloud-OG.github.io/FileHub/root/Music/come on,sweet death.mp3',
-      cover: 'https://p1.music.126.net/S4Kcgr9CmA_1yM6wbjL3Rg==/109951165354140879.jpg'
-    },
-    {
       name: '鳥の詩',
       artist: 'Lia',
       url: 'https://music.163.com/song/media/outer/url?id=28151022.mp3',
@@ -327,6 +321,36 @@ const BLOG = {
       artist: '藤崎わと',
       url: 'https://Cloud-OG.github.io/FileHub/root/Music/Memoria-君の赴くままに.m4a',
       cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMiehT3mFTCvo7gRCx6_e9e5DSAm8Q19M7w&s'
+    },
+    {
+      name: 'Come on,sweet death',
+      artist: 'ARIANNE',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/come on,sweet death.mp3',
+      cover: 'https://p1.music.126.net/S4Kcgr9CmA_1yM6wbjL3Rg==/109951165354140879.jpg'
+    },
+    {
+      name: 'Beautiful World',
+      artist: '宇多田ヒカル',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/Beautiful_World.mp3',
+      cover: 'https://p1.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg'
+    },
+    {
+      name: '桜流し (2021 Remastered)',
+      artist: '宇多田ヒカル',
+      url: 'https://music.163.com/song/media/outer/url?id=1825843935.mp3',
+      cover: 'https://p1.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg'
+    },
+    {
+      name: 'Beautiful World(Da Capo Version)',
+      artist: '宇多田ヒカル',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/Beautiful_World(Da_Capo_Version).mp3',
+      cover: 'https://p1.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg'
+    },
+    {
+      name: 'One Last Kiss',
+      artist: '宇多田ヒカル',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/One Last Kiss.mp3',
+      cover: 'https://p1.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg'
     },
     {
       name: '崩坏世界的歌姬 (Movie Ver.)',
