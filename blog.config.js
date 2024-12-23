@@ -365,6 +365,12 @@ const BLOG = {
       cover: 'https://p1.music.126.net/92bUIG25fZW2TqOT53dP9w==/109951168429185109.jpg'
     },
     {
+      name: 'Let It Be (Remastered 2009)',
+      artist: 'Beatles',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/Let It Be (Remastered 2009).flac',
+      cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoPQLBmAd4ABWAtGQRQOyDWVOsiHPFOMRqhw&s'
+    },
+    {
       name: '崩坏世界的歌姬 (Movie Ver.)',
       artist: '小林未郁',
       url: 'https://music.163.com/song/media/outer/url?id=1459722976.mp3',
