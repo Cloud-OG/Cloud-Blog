@@ -723,6 +723,12 @@ const BLOG = {
       artist: 'Kan R. Gao / Laura Shigihara',
       url: 'http://music.163.com/song/media/outer/url?id=454966468.mp3',
       cover: 'https://p2.music.126.net/0AYWra9rCzgeprGp6OUyUw==/868614185993997.jpg'
+    },
+    {
+      name: 'Opus - ending',
+      artist: '坂本龍一',
+      url: 'http://music.163.com/song/media/outer/url?id=2610262431.mp3',
+      cover: 'https://p2.music.126.net/YUFj5W_FSTK8euT5xWGr7A==/109951169805864161.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
