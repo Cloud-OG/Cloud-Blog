@@ -353,6 +353,18 @@ const BLOG = {
       cover: 'https://p1.music.126.net/l3G4LigZnOxFE9lB4bz_LQ==/109951165791860501.jpg'
     },
     {
+      name: 'Merry Christmas Mr. Lawrence',
+      artist: '坂本龍一',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/Merry Christmas Mr. Lawrence.flac',
+      cover: 'https://p1.music.126.net/Vnb5M_-BCkEARNVGSF_KKg==/109951167113646412.jpg'
+    },
+    {
+      name: 'energy flow',
+      artist: '坂本龍一',
+      url: 'https://Cloud-OG.github.io/FileHub/root/Music/energy flow.flac',
+      cover: 'https://p1.music.126.net/92bUIG25fZW2TqOT53dP9w==/109951168429185109.jpg'
+    },
+    {
       name: '崩坏世界的歌姬 (Movie Ver.)',
       artist: '小林未郁',
       url: 'https://music.163.com/song/media/outer/url?id=1459722976.mp3',
