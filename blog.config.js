@@ -455,6 +455,12 @@ const BLOG = {
       cover: 'https://p2.music.126.net/lCNxRyqAuVvIPkuhUXkcdg==/109951170130858980.jpg'
     },
     {
+      name: '晓',
+      artist: '三Z-STUDIO,HOYO-MiX',
+      url: 'http://music.163.com/song/media/outer/url?id=2658093531.mp3',
+      cover: 'https://p1.music.126.net/1q8Nsdd7TIp_KG5_mVg4aw==/109951170280932175.jpg'
+    },
+    {
       name: '穏ヤカナ眠リ',
       artist: '岡部啓一',
       url: 'http://music.163.com/song/media/outer/url?id=468490565.mp3',
