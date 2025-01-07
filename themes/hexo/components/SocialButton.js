@@ -23,7 +23,8 @@ const SocialButton = () => {
   const CONTACT_XIAOHONGSHU = siteConfig('CONTACT_XIAOHONGSHU')
   const CONTACT_ZHISHIXINGQIU = siteConfig('CONTACT_ZHISHIXINGQIU')
   const CONTACT_WEHCHAT_PUBLIC = siteConfig('CONTACT_WEHCHAT_PUBLIC')
-
+  const CONTACT_QQ = siteConfig('CONTACT_QQ_PUBLIC')
+  
   const [qrCodeShow, setQrCodeShow] = useState(false)
 
   const openPopover = () => {
@@ -175,6 +176,15 @@ const SocialButton = () => {
               </div>
             </div>
           </button>
+        )}
+        {CONTACT_QQ && (
+          <a
+            target='_blank'
+            rel='noreferrer'
+            title={'qq'}
+            href={CONTACT_QQ}>
+            <i className='transform hover:scale-125 duration-150 fab fa-qq dark:hover:text-indigo-400 hover:text-indigo-600' />
+          </a>
         )}
       </div>
     </div>
