@@ -15,5 +15,5 @@ module.exports = {
   CONTACT_XIAOHONGSHU: process.env.NEXT_PUBLIC_CONTACT_XIAOHONGSHU || '', // 小红书主页
   CONTACT_ZHISHIXINGQIU: process.env.NEXT_PUBLIC_CONTACT_ZHISHIXINGQIU || '', // 知识星球
   CONTACT_WEHCHAT_PUBLIC: process.env.NEXT_PUBLIC_CONTACT_WEHCHAT_PUBLIC || '', // 微信公众号 格式：https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=【xxxxxx】==#wechat_redirect
-  CONTACT_QQ: process.env.NEXT_PUBLIC_CONTACT_QQ || 'https://qm.qq.com/q/ICx37IRZIK', // 你的QQ
+  CONTACT_QQ: process.env.NEXT_PUBLIC_CONTACT_QQ || 'https://qm.qq.com/q/ICx37IRZIK', // 你的QQ 
 }
