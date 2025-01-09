@@ -2,7 +2,10 @@ const CONFIG = {
   HEXO_HOME_BANNER_ENABLE: true,
   // 3.14.1以后的版本中，欢迎语在blog.config.js中配置，用英文逗号','隔开多个。
   HEXO_HOME_BANNER_GREETINGS: [
-    'Stay hungry ，stay foolish.'
+    '什么都想要',
+    '可能什么也得不到',
+    '即便如此',
+    '我还是想试一试'
   ], // 首页大图标语文字
 
   HEXO_HOME_NAV_BUTTONS: false, // 首页是否显示分类大图标按钮
