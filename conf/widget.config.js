@@ -97,6 +97,30 @@ module.exports = {
       cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoPQLBmAd4ABWAtGQRQOyDWVOsiHPFOMRqhw&s'
     },
     {
+      name: 'Gymnopedie No.1',
+      artist: 'Erik Satie',
+      url: 'https://music.163.com/song/media/outer/url?id=1436101985.mp3',
+      cover: 'https://p2.music.126.net/TJn7g2nQLVqjKrKyY73aeg==/109951164857206844.jpg'
+    },
+    {
+      name: 'Liebestraum No. 3 in A-flat',
+      artist: 'Arthur Rubinstein',
+      url: 'https://music.163.com/song/media/outer/url?id=1298576162.mp3',
+      cover: 'https://p1.music.126.net/zeyFNs7lZmSysEnPd_yoLw==/109951165965837333.jpg'
+    },
+    {
+      name: 'Liebestraume(Lizt)',
+      artist: '阿保剛',
+      url: 'https://music.163.com/song/media/outer/url?id=28802057.mp3',
+      cover: 'https://p1.music.126.net/xGhMCNqVnRd6NX3y-5lrFQ==/6007731534871573.jpg'
+    },
+    {
+      name: '爱之梦',
+      artist: '郎朗',
+      url: 'https://music.163.com/song/media/outer/url?id=114659.mp3',
+      cover: 'https://p2.music.126.net/xK887lhrem11-JyATCtWJA==/109951163890328509.jpg'
+    },
+    {
       name: '崩坏世界的歌姬 (Movie Ver.)',
       artist: '小林未郁',
       url: 'https://music.163.com/song/media/outer/url?id=1459722976.mp3',
