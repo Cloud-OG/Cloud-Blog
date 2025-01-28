@@ -49,6 +49,24 @@ module.exports = {
       cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMiehT3mFTCvo7gRCx6_e9e5DSAm8Q19M7w&s'
     },
     {
+      name: 'モニタリング',
+      artist: 'DECO*27,初音ミク',
+      url: 'https://music.163.com/song/media/outer/url?id=2639291583.mp3',
+      cover: 'https://p2.music.126.net/AyOZCkH55VboMessdJnXGg==/109951170067309376.jpg'
+    },
+    {
+      name: '妄想感傷代償連盟',
+      artist: 'DECO*27,初音ミク',
+      url: 'https://music.163.com/song/media/outer/url?id=432486474.mp3',
+      cover: 'https://p1.music.126.net/S8Fw1AOhq45Obb_YyThviw==/18495984602893574.jpg'
+    },
+    {
+      name: 'ラビットホール',
+      artist: 'DECO*27,初音ミク',
+      url: 'https://music.163.com/song/media/outer/url?id=2043178301.mp3',
+      cover: 'https://p1.music.126.net/20QetRSvLjUmyyGF__1ALA==/109951168575689926.jpg'
+    },
+    {
       name: 'Come on,sweet death',
       artist: 'ARIANNE',
       url: 'https://Cloud-OG.github.io/FileHub/root/Music/come on,sweet death.mp3',
