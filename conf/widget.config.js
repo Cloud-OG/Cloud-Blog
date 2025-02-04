@@ -403,10 +403,82 @@ module.exports = {
       cover: 'https://p1.music.126.net/FmuZirfGmg9FbMy3hkEqAA==/109951165567176149.jpg'
     },
     {
+      name: 'Full Moon, Full Life',
+      artist: 'Lotus Juice / 高橋あず美',
+      url: 'http://music.163.com/song/media/outer/url?id=2123807708.mp3',
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
+    },
+    {
+      name: 'Want To Be Close -Reload-',
+      artist: 'アトラスサウンドチーム',
+      url: 'http://music.163.com/song/media/outer/url?id=2123807711.mp3',
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
+    },
+    {
+      name: 'When The Moon’s Reaching Out Stars',
+      artist: '川村ゆみ',
+      url: 'http://music.163.com/song/media/outer/url?id=403026.mp3',
+      cover: 'https://p1.music.126.net/1u0epGLkeAEez46pY-sTAw==/737772302249800.jpg'
+    },
+    {
+      name: 'Mass Destruction -Reload-',
+      artist: 'アトラスサウンドチーム / Lotus Juice / 高橋あず美 / ATLUS GAME MUSIC',
+      url: 'http://music.163.com/song/media/outer/url?id=2123802233.mp3',
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
+    },
+    {
+      name: 'Color Your Night',
+      artist: 'Lotus Juice / 高橋あず美 / アトラスサウンドチーム',
+      url: 'http://music.163.com/song/media/outer/url?id=2123807718.mp3',
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
+    },
+    {
+      name: 'It\'s Going Down Now',
+      artist: 'アトラスサウンドチーム',
+      url: 'http://music.163.com/song/media/outer/url?id=2123802242.mp3',
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
+    },
+    {
+      name: '時価ネットたなか -Reload-',
+      artist: 'アトラスサウンドチーム',
+      url: 'http://music.163.com/song/media/outer/url?id=2123807728.mp3',
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
+    },
+    {
+      name: '街の記憶 (P3R ver.)',
+      artist: 'アトラスサウンドチーム',
+      url: 'http://music.163.com/song/media/outer/url?id=2123802253.mp3',
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
+    },
+    {
+      name: '学園の記憶 (P3R ver.)',
+      artist: 'アトラスサウンドチーム',
+      url: 'http://music.163.com/song/media/outer/url?id=2123802254.mp3',
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
+    },
+    {
+      name: 'Burn My Dread',
+      artist: '川村ゆみ',
+      url: 'http://music.163.com/song/media/outer/url?id=403002.mp3',
+      cover: 'https://p2.music.126.net/1u0epGLkeAEez46pY-sTAw==/737772302249800.jpg'
+    },
+    {
+      name: '私が守るから -Reload-',
+      artist: 'アトラスサウンドチーム',
+      url: 'http://music.163.com/song/media/outer/url?id=2123802257.mp3',
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
+    },
+    {
+      name: 'キミの記憶 -Reload-',
+      artist: 'アトラスサウンドチーム',
+      url: 'http://music.163.com/song/media/outer/url?id=2123802258.mp3',
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
+    },
+    {
       name: 'Trailer Theme - Just a To the Moon Series Beach Episode',
       artist: 'Kan R. Gao',
       url: 'http://music.163.com/song/media/outer/url?id=2633699898.mp3',
-      cover: 'https://p1.music.126.net/q7j2CUBo6u-ivxzkjjaf1w==/109951170017498007.jpg'
+      cover: 'https://p2.music.126.net/KZ9tA0eVW03mDYGKeIkwEQ==/109951169371891954.jpg'
     },
     {
       name: 'Title Theme - Just a To the Moon Series Beach Episode',
